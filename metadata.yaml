@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31906'
     url: http://www.gutenberg.org/2009/agents/31906
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26313#The-Young-Farmer--Some-Things-He-Should-Know
 gutenberg_issued: '2008-08-14'
 gutenberg_type: Text
 identifiers:
